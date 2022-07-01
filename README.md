@@ -2,6 +2,6 @@
 
 Some text
 
-## Feature Reame Instruction
+## Feature Rename Instruction
 
-More text
+More text added bij user student
